@@ -3,7 +3,6 @@ var options = {
     prevNextButtons: true,
     freeScroll: true,
     wrapAround: true,
-    autoPlay: 4000,
     pageDots: true,
     setGallerySize: false,
     arrowShape: {
